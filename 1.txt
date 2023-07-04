@@ -1,1 +1,2 @@
 11
+@EventHandlerType(CREATE\_RECORD\_COMPLETE)
